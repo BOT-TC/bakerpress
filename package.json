@@ -1,0 +1,14 @@
+{
+  "name": "bakerpress",
+  "version": "1.0.0",
+  "description": "A Guide To Baking Whole Grain Breads",
+  "main": "index.js",
+  "repository": "https://github.com/BOT-TC/bakerpress",
+  "author": "John Farrar",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.35",
+    "vue": "^3.2.45"
+  }
+}
